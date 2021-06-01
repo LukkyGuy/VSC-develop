@@ -20,7 +20,7 @@ master = Tk()
   
 master.geometry("200x200")
   
-label = Label(master, text ="This is the main window")
+label = Label(master, text ="main window")
 label.pack(side = TOP, pady = 10)
   
 
